@@ -45,4 +45,4 @@ This project aims to analyze biodiversity patterns and environmental drivers in 
 
 ## Contact
 
-For any questions, please contact Siwei Yu at yusiwei07@gmail.com.
+For any questions, please contact Siwei Yu at yusiwei_07@163.com.
